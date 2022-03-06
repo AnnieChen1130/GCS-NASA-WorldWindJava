@@ -1,4 +1,4 @@
-These are GCS file, each number means different version.
+These are GCS files, each number means different version.
 
 GCS1-3 do not use Xbee
 
