@@ -1,5 +1,6 @@
 # GCS-NASA-WorldWindJava
 This tutorial is using ubuntu 18.0.4
+tutorial with picture: https://docs.google.com/document/d/1m19amdK6z0IX9CIw9OhGoZBDoZD1cXymzxexySjbbTw/edit?usp=sharing
 
 # Set up NASA WorldWind JAVA
 ## Install JDK 11
