@@ -1,0 +1,21 @@
+34.0434, -117.8126
+LineBuilder.java - interaction with map and add line - can be used for place waypoint
+AlarmIcons.java - alarm icons with different color and shape - can be used for distingulish drones
+ColladaViewer - enable bing map
+FlatWorldEarthquakes - blinking highlight - can be used for highlight fire
+NetworkOfflineMode - offline map
+MeasureToolUsage - measure distance
+MarkersOrder - marker with on screen label
+MGRSGraticule - enter location
+PlacemarkDecluttering - marker with text
+PathsOnDateline/PathPositionColors - can be used for highlight waypoint
+RubberSheetImage - open an image file - can be used for opening a waypoint file
+
+
+
+---------------------------
+SplitPaneUsage
+Shapes
+ScreenImageDragging - moving icon with dragging
+ViewLookAround - airplane cockpit view
+ViewControls
