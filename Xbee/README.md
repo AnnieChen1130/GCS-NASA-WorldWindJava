@@ -5,8 +5,8 @@ There are two versions of xbee:
 * using XbeeDevice python library
 
 Install library
-* serial library
+* serial library:
 pip install pyserial
-* XbeeDevice library
+* XbeeDevice library:
 pip install digi-xbee
 
